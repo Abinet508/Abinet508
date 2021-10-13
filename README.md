@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Abinet 
+
+- 🔭 I’m currently working on Telegram Bot
+- 🌱 I’m currently learning Python
+
+## My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinet508&show_icons=true&theme=prussian)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet508&theme=prussian)
 
 <!--
 **Abinet508/Abinet508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

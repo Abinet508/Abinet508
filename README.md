@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Abinet 
 
 - 🔭 I’m currently working on Telegram Bot
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently student at Alx/Holberton School learning fullstack software engineering
 
 ## My GitHub Stats
 

@@ -6,11 +6,11 @@
 
 
 ## My GitHub Stats
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinet508&show_icons=true&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet508&theme=prussian)
-
+-->
 
 [![Linkedin: Abinet-Tesfu](https://img.shields.io/badge/-Abinet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinet-tesfu-99a431185//)](https://www.linkedin.com/in/abinet-tesfu-99a431185//)
 [![GitHub Abinet508](https://img.shields.io/github/followers/Abinet508?label=follow&style=social)](https://github.com/Abinet508)

@@ -29,7 +29,7 @@
 ### Technologies and Tool ⚙️ 🖥
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://irp.cdn-website.com/21ab13d7/dms3rep/multi/1AuTbeApgQKl_kcGfqFZ5yDTOZm2sxLwDe_UiQ41jbQ.png)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)

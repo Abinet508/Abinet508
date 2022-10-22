@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Abinet 
+### Hi there `👋`, I'm Abinet.
+
+### `Welcome to my GitHub profile.` 
 
 - 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.
 - 🔭 I’m currently working on two personal projects, web automation and Voice assistant.

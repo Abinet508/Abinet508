@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abinet 
 
-- 🌱 I’m  Information Technology and Alx/Holberton School fullstack software engineering graduate.
+- 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.
 - 🔭 I’m currently working on two personal projects, web automation and Voice assistant.
 - 👯 I’m looking to collaborate on python, SQL, react projects
 

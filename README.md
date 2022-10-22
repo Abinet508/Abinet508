@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Abinet 
 
-- 🌱 I’m currently student at Alx/Holberton School learning fullstack software engineering.
-- 🔭 I’m currently working on two personal projects, Telegram Bot and Voice assistant.
+- 🌱 I’m  Information Technology and Alx/Holberton School fullstack software engineering graduate.
+- 🔭 I’m currently working on two personal projects, web automation and Voice assistant.
 - 👯 I’m looking to collaborate on python, SQL, react projects
 
 

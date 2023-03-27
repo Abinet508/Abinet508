@@ -3,8 +3,8 @@
 ### `Welcome to my GitHub profile.` 
 
 - 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.
-- 🔭 I’m currently working on two personal projects, web automation and Voice assistant.
-- 👯 I’m looking to collaborate on python, SQL, react projects
+- 🔭 I’m currently working as Software Quality Assurance Specialist at Ethiopian Labor Market Information System (E-LMIS)  
+- 👯 I’m looking to collaborate on freelance Data Science, AI, Data processing and Data mining, and Telegram Bots projects
 
 
 ## My GitHub Stats

@@ -1,5 +1,5 @@
 ### Hi there `👋`, I'm Abinet.
-https://drive.google.com/file/d/18JWD7OhGV-djBZW6lTzg74vx8dQcNVGH/view?usp=sharing
+pip install python-dotenv pandas playwright requests mysqlclient sshtunnel
 ### `Welcome to my GitHub profile.` 
 
 - 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.

@@ -1,7 +1,5 @@
 ### Hi there `👋`, I'm Abinet.
 
-https://docs.google.com/document/d/1KY3P2RkIn9aZKwTc8iUz68EbOCx7vRivlzwFx3HSbN8/edit?tab=t.0
-
 ### `Welcome to my GitHub profile.` 
 
 - 🌱 I’m an IT and Alx/Holberton School fullstack software engineering graduate.

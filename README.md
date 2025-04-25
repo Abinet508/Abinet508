@@ -2,7 +2,7 @@
 
 ### `Welcome to my GitHub profile.` 
 
-- 🌱 I’m an Computer Science and Alx/Holberton School fullstack software engineering graduate.
+- 🌱 I’m a Computer Science and Alx/Holberton School fullstack software engineering graduate.
 - 🔭 I’m currently working as Software Quality Assurance Specialist at Ethiopian Labor Market Information System (E-LMIS)  
 - 👯 I’m looking to collaborate on freelance Data Science, AI, Data processing and Data mining, and Telegram Bots projects
 
